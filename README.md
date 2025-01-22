@@ -23,10 +23,6 @@ I work as a cybersecurity engineer with a primary focus on cloud security operat
 ### 📱 **Contact Me** 
 <ul>
       <li><a href="mailto:jpoblete@vnoproject.com">jpoblete@vnoproject.com</a></li>
-      <li><a href="https://www.linkedin.com/in/0xscorpio/" target="_blank">linkedin.com/in/0xscorpio</a>
-      </li>
-      <li><a href="https://www.instagram.com/srpvno/" target="_blank">instagram.com/srpvno</a>
-      </li>
  </ul>   
 
 
