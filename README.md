@@ -1,6 +1,6 @@
 # RXZlcnkgZGF5LCBldmVuIG5vdy4=
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=1500&pause=1000&color=33F704&vCenter=true&width=435&lines=Cybersecurity+Engineer;Bug+Bounty+Hunter;Options+Trader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=1500&pause=1000&color=33F704&vCenter=true&width=435&lines=Senior+Cybersecurity+Engineer;Bug+Bounty+Hunter;Options+Trader)](https://git.io/typing-svg)
 
 My name is **John Poblete**.
 
