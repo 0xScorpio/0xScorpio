@@ -6,7 +6,7 @@ My name is **John Poblete**.
 
 ### 🖥 **Current work**
 
-I work as a Senior Cybersecurity Engineer with a primary focus on Security Automation & Operations, AI Penetration Testing, Vulnerability Management, Linux Security Hardening and Azure Cloud Security at [Accenture](https://mconsultingprep.com/top-it-consulting-firms).
+I work as a Senior Cybersecurity Engineer with a primary focus on Security Automation & Operations, AI Penetration Testing, Vulnerability Management, Linux Security Hardening and Azure Cloud Security.
 
 ---
 ### 🔐 **Certifications** 
