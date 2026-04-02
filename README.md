@@ -14,7 +14,7 @@ I work as a Senior Cybersecurity Engineer with a primary focus on Security Autom
 |-----------------|-----------------------------------------------------|------------|--------|
 | ISC2            | Certified Information Systems Security Professional | CISSP      | ⏳     |
 | Offsec          | Offensive Security Certified Professional           | OSCP       | ⏳     |
-| TCM Security    | Practical Network Penetration Tester                | PNPT       | ⏳     |
+| TCM Security    | Practical Network Penetration Tester                | PNPT       | ✅    |
 | TCM Security    | Practical AI Pentest Associate                      | PAPA       | ✅     |
 | arcX            | Threat Intelligence Analyst                         | arcX FTIA  | ✅     |
 | TCM Security    | Practical Junior Penetration Tester                 | PJPT       | ✅     |
