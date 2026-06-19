@@ -10,17 +10,18 @@ I work as a Senior Cybersecurity Engineer with a primary focus on Security Autom
 
 ---
 ### 🔐 **Certifications** 
-| Vendor          | Certification name                                  | Abbrev.    | Status |
-|-----------------|-----------------------------------------------------|------------|--------|
-| ISC2            | Certified Information Systems Security Professional | CISSP      | ⏳     |
-| Offsec          | Offensive Security Certified Professional           | OSCP       | ⏳     |
-| TCM Security    | Practical Network Penetration Tester                | PNPT       | ✅    |
-| TCM Security    | Practical AI Pentest Associate                      | PAPA       | ✅     |
-| arcX            | Threat Intelligence Analyst                         | arcX FTIA  | ✅     |
-| TCM Security    | Practical Junior Penetration Tester                 | PJPT       | ✅     |
-| EC-Council      | Certified Ethical Hacker                            | CEHv12     | ✅     |
-| Qualys          | Vulnerability Management                            | Qualys VM  | ✅     |
-| AZ-900          | Microsoft Certified Azure Fundamentals              | AZ-900     | ✅     |
+| Vendor          | Certification name                                  | Abbrev.      | Status |
+|-----------------|-----------------------------------------------------|--------------|--------|
+| ISC2            | Certified Information Systems Security Professional | CISSP        | ⏳     |
+| Offsec          | Offensive Security Certified Professional           | OSCP         | ⏳     |
+| Oracle          | Oracle Cloud Infrastructure Security Professional   | OCI Security | ✅    |
+| TCM Security    | Practical Network Penetration Tester                | PNPT         | ✅    |
+| TCM Security    | Practical AI Pentest Associate                      | PAPA         | ✅     |
+| arcX            | Threat Intelligence Analyst                         | arcX FTIA    | ✅     |
+| TCM Security    | Practical Junior Penetration Tester                 | PJPT         | ✅     |
+| EC-Council      | Certified Ethical Hacker                            | CEHv12       | ✅     |
+| Qualys          | Vulnerability Management                            | Qualys VM    | ✅     |
+| AZ-900          | Microsoft Certified Azure Fundamentals              | AZ-900       | ✅     |
 
 ---
 ### 📱 **Contact Me** 
